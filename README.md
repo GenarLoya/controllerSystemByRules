@@ -19,11 +19,15 @@
     touch .env ## or create .env file
     ```
 
+**Note:** on install new packages run `pip freeze > requirements.txt` for sync packages
+
 ### MycroPython
+
+Pending...
 
 ## .env template
 
-copy and paste the following template in `.env` file
+copy and paste the following template in `.env` file in the root of the project
 
 ```bash
 # .env

@@ -1,0 +1,14 @@
+{
+  "configs": {
+    "Kof": {
+      "joystick": {
+        "up": "up",
+        "down": "down",
+        "left": "left",
+        "right": "right"
+      },
+      "A": "a",
+      "B": "b"
+    }
+  }
+}
