@@ -1,5 +1,6 @@
 ## Environment
 .venv/
+venv/
 .env
 
 ## VsCode
